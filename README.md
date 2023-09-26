@@ -2,7 +2,7 @@
 
 This is the code for the blog article "Use Milvus and Airbyte for similarity search on all your data".
 
-<img width="812" alt="Screenshot 2023-09-26 at 12 37 33" src="https://github.com/airbytehq/tutorial-similarity-search/assets/1508364/81b14fe9-c881-433b-b5e1-c0c2821ee6b7">
+<img width="750" alt="Screenshot 2023-09-26 at 16 24 09" src="https://github.com/airbytehq/tutorial-similarity-search/assets/1508364/08257911-e892-47d1-ab5d-361dde143628">
 
 
 To run the examples, follow these steps:
